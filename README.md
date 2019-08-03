@@ -3,6 +3,15 @@ Porto-folio project done for Udacity - first time trying Gitub, so this might go
 
 #**description**
 
+IMPORTANT !!
+
+link it with bootstraps before starting - the link was commented out in the html file
+
+```
+<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
+
+```
+
 -project done with Bootstraps
 
 -html , css files go in separate folder
