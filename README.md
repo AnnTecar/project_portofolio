@@ -28,8 +28,9 @@ hr.style-line:before {
     border-color: #0c2b88;
     border-width: 0 0 1px 0;
     border-radius: 20px;
-}```
-
+    }
+    
+```
 _ hr styled with the help of https://www.formget.com/css-hr/
 by using their ''style-three'' model _
 
