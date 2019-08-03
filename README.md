@@ -4,11 +4,16 @@ Porto-folio project done for Udacity - first time trying Gitub, so this might go
 #**description**
 
 -project done with Bootstraps
+
 -html , css files go in separate folder
+
 -img folder for all images
+
 -uploaded pdf called p1 - this was the mockup that should inspire us
+
 -should include 4 images, at least 1 `h1` and at least 1 `p`
-should be responsive
+
+-should be responsive
 
 
 ```.style-line {
@@ -31,10 +36,11 @@ hr.style-line:before {
     }
     
 ```
-_ hr styled with the help of https://www.formget.com/css-hr/
-by using their ''style-three'' model _
+_hr styled with the help of https://www.formget.com/css-hr/
+by using their ''style-three'' model_
 
 #BUGS
+
 -does not render in my Internet Explorer (using Verion 8.0.7601.17514)
 (EE does not work with Bootstraps or I need to upgrade my local EE? yet to figure out...)
 
